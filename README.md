@@ -13,40 +13,40 @@
 
 ## ✨ 核心功能与亮点
 
-*   **两大核心解决方案展示**：
-    *   **1.0 环保护理系统**：详细展示智能护士站、治疗配液室、污洗清洁间等 11 个子系列的绿色疗愈空间方案。
-    *   **2.0 智慧医疗护理系统**：深入介绍移动护理、电子白板、护理闭环管理等 9 大智慧物联系统的技术优势。
-*   **沉浸式首页体验**：
-    *   全屏高清轮播图，直观传达核心业务价值。
-    *   动态数字大屏展示企业实力（年限、客户数、专利数、响应速度）。
-    *   无限循环滚动的“专业制造能力”展示墙（车间设备、生产工区、厂区环境）。
-    *   视差滚动视频预览，增强视觉冲击力。
-*   **多维度信息架构**：
-    *   **走进昌品**：企业简介、发展历程、荣誉资质、企业文化。
-    *   **资讯中心**：公司新闻、行业动态，支持列表与详情页跳转。
-    *   **联系我们**：集成在线留言表单、联系方式卡片及地理位置展示。
-*   **响应式设计**：完美适配桌面端、平板及移动端设备，确保一致的浏览体验。
+- **两大核心解决方案展示**：
+  - **1.0 环保护理系统**：详细展示智能护士站、治疗配液室、污洗清洁间等 11 个子系列的绿色疗愈空间方案。
+  - **2.0 智慧医疗护理系统**：深入介绍移动护理、电子白板、护理闭环管理等 9 大智慧物联系统的技术优势。
+- **沉浸式首页体验**：
+  - 全屏高清轮播图，直观传达核心业务价值。
+  - 动态数字大屏展示企业实力（年限、客户数、专利数、响应速度）。
+  - 无限循环滚动的“专业制造能力”展示墙（车间设备、生产工区、厂区环境）。
+  - 视差滚动视频预览，增强视觉冲击力。
+- **多维度信息架构**：
+  - **走进昌品**：企业简介、发展历程、荣誉资质、企业文化。
+  - **资讯中心**：公司新闻、行业动态，支持列表与详情页跳转。
+  - **联系我们**：集成在线留言表单、联系方式卡片及地理位置展示。
+- **响应式设计**：完美适配桌面端、平板及移动端设备，确保一致的浏览体验。
 
 ## 🛠️ 技术栈
 
 本项目基于现代前端工程化标准构建：
 
-*   **核心框架**: [Vue 3](https://vuejs.org/) (Composition API + `<script setup>`)
-*   **构建工具**: [Vite](https://vitejs.dev/) (极速冷启动与热更新)
-*   **开发语言**: [TypeScript](https://www.typescriptlang.org/) (强类型支持，提升代码健壮性)
-*   **样式库**: [Tailwind CSS](https://tailwindcss.com/) (原子化 CSS，高效构建 UI)
-*   **路由管理**: [Vue Router 4](https://router.vuejs.org/)
-*   **动画与交互**:
-    *   `framer-motion` / CSS Transitions
-    *   `@vueuse/core` (使用 `useIntersectionObserver`, `useTransition`, `useDraggableScroll` 等组合式函数)
-*   **图标库**: [Lucide Vue Next](https://lucide.dev/)
+- **核心框架**: [Vue 3](https://vuejs.org/) (Composition API + `<script setup>`)
+- **构建工具**: [Vite](https://vitejs.dev/) (极速冷启动与热更新)
+- **开发语言**: [TypeScript](https://www.typescriptlang.org/) (强类型支持，提升代码健壮性)
+- **样式库**: [Tailwind CSS](https://tailwindcss.com/) (原子化 CSS，高效构建 UI)
+- **路由管理**: [Vue Router 4](https://router.vuejs.org/)
+- **动画与交互**:
+  - `framer-motion` / CSS Transitions
+  - `@vueuse/core` (使用 `useIntersectionObserver`, `useTransition`, `useDraggableScroll` 等组合式函数)
+- **图标库**: [Lucide Vue Next](https://lucide.dev/)
 
 ## 🚀 快速开始
 
 ### 环境要求
 
-*   Node.js >= 16.0.0
-*   npm >= 7.0.0
+- Node.js >= 16.0.0
+- npm >= 7.0.0
 
 ### 安装依赖
 
@@ -106,4 +106,6 @@ suzhou-deping-portal/
 
 ## 📄 许可证
 
-本项目版权归 **江苏昌品医疗科技股份有限公司** 所有。
+本项目基于 [MIT 协议](LICENSE) 开源。有关详细信息，请参阅 `LICENSE` 文件。
+
+Copyright (c) 2024 江苏昌品医疗科技股份有限公司
